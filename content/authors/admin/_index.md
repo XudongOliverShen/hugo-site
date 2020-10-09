@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xudong Shen
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National University of Singapore
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,6 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Xudong Shen (沈旭东 in Mandarin). Friends also call me Oliver. I am a 2nd year Ph.D. student at Graduate School for Integrative Sciences and Engineering, National Univeristy of Singapore. I study machine learning with a focus on human and society. Topics include *fairness* and *bias* in machine learning. My advisor is professor [Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Between 2015 and 2019, I was an undergraduate student at Zhejiang University, China, majoring in Naval Architecture and Ocean Engineering. The research areas that I have had the chance to work on are computational fluid dynamics, hydrodynamically focused printing, satellite remote sensing, and public policy. I am fortunate to have been supervised/advised by professor [Sachiko HIRAKAWA](https://www.waseda.jp/prj-wiccs/english/member/4346), professor [Gerd Grau](http://eecs.lassonde.yorku.ca/faculty/gerd-grau/), and professor [Gang Zheng](http://www.sio.org.cn/redir.php?catalog_id=1319&object_id=311131).
+
+During my undergraduate study, I had some of the best times at Trento University (Italy), Waseda University (Japan), and York University (Canada). These short-term stays are supported by Erasmus+, Master Kong Dream Scholarship, and Mitacs Globalink, respectively, for which I am very grateful.
+
+If you are interested, I've written something more about myself...
