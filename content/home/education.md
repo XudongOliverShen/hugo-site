@@ -6,9 +6,9 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
-title = "Publications"
+title = "Education"
 subtitle = ""
 
 [design]
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0px", "20px", "0px"]
+  padding = ["20px", "0px", "0px", "0px"]
 
 [advanced]
  # Custom CSS. 
@@ -50,4 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-None at the moment.
+* 2019 - current, Ph.D. student, [Graduate School for Integrative Sciences and Engieering](http://www.nus.edu.sg/ngs/), National University of Singapore, Singapore
+* 2015 - 2019, B.Eng in Naval Architecture and Ocean Engineering, Zhejiang University, China

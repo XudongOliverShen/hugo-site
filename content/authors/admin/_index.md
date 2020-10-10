@@ -42,18 +42,18 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:xudong.shen@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/oliverrr_shen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/oliverxudongshen/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/XudongOliverShen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,10 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! My name is Xudong Shen (沈旭东 in Mandarin). Friends also call me Oliver. I am a 2nd year Ph.D. student at Graduate School for Integrative Sciences and Engineering, National Univeristy of Singapore. I study machine learning with a focus on human and society. Topics include *fairness* and *bias* in machine learning. My advisor is professor [Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/).
+Hi! My name is Xudong Shen (沈旭东 in Chinese). Friends also call me Oliver. I am a 2nd year Ph.D. student at National Univeristy of Singapore. I study machine learning with a focus on people and society. Topics include *fairness* and *bias* in machine learning. My advisor is professor [Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). I can be reached at xudong-shen@u-nus-edu (replace hyphens with dots). My cv is [here](files/cv.pdf).
 
-Between 2015 and 2019, I was an undergraduate student at Zhejiang University, China, majoring in Naval Architecture and Ocean Engineering. The research areas that I have had the chance to work on are computational fluid dynamics, hydrodynamically focused printing, satellite remote sensing, and public policy. I am fortunate to have been supervised/advised by professor [Sachiko HIRAKAWA](https://www.waseda.jp/prj-wiccs/english/member/4346), professor [Gerd Grau](http://eecs.lassonde.yorku.ca/faculty/gerd-grau/), and professor [Gang Zheng](http://www.sio.org.cn/redir.php?catalog_id=1319&object_id=311131).
+Between 2015 and 2019, I was an undergraduate at Zhejiang University, China. The research areas that I have had the chance to work on are computational fluid dynamics, hydrodynamically focused printing, satellite remote sensing, and public policy. During my undergraduate study, I had some of the best times at Trento University (Italy), Waseda University (Japan), and York University (Canada). I am fortunate to have been supervised/advised by professor [Sachiko HIRAKAWA](https://www.waseda.jp/prj-wiccs/english/member/4346), professor [Gerd Grau](http://eecs.lassonde.yorku.ca/faculty/gerd-grau/), and professor [Gang Zheng](http://www.sio.org.cn/redir.php?catalog_id=1319&object_id=311131).
 
-During my undergraduate study, I had some of the best times at Trento University (Italy), Waseda University (Japan), and York University (Canada). These short-term stays are supported by Erasmus+, Master Kong Dream Scholarship, and Mitacs Globalink, respectively, for which I am very grateful.
+I believe in Diversity, Equity & Inclusion. I am committed to promote these values.
 
-If you are interested, I've written something more about myself...
+If you are interested, I've written something [more about myself](more-about-me/)...

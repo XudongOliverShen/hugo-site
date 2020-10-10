@@ -6,9 +6,9 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Publications"
+title = "Working Papers"
 subtitle = ""
 
 [design]
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0px", "20px", "0px"]
+  padding = ["20px", "0px", "0px", "0px"]
 
 [advanced]
  # Custom CSS. 
@@ -50,4 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-None at the moment.
+1. Unpredictability Matters In Fair Representation <br>
+    Xudong Shen, Yongkang Wong, Mohan Kankanhalli
+1. Learning to Model Movements in Video with Motion Capsule Autoencoder <br>
+    Ziwei Xu, Xudong Shen, Yongkang Wong, Mohan Kankanhalli
