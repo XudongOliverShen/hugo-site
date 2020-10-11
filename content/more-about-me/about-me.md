@@ -12,48 +12,54 @@ title = "More About Me : )"
 
 [[gallery_item]]
   album= "me"
-  image= "1.jpg"
-  caption= "at Tokyo, Japan"
-
-[[gallery_item]]
-  album= "me"
-  image= "3.jpg"
-  caption= "at Hokkaido, Japan"
-
-[[gallery_item]]
-  album= "me"
-  image= "11.jpg"
-  caption= "at Bangkok, Thailand"
-
-[[gallery_item]]
-  album= "me"
-  image= "6.jpg"
-  caption= "at Hokkaido, Japan"
-
-[[gallery_item]]
-  album= "me"
-  image= "5.jpg"
-  caption= "at Bangkok, Thailand"
-
-[[gallery_item]]
-  album= "me"
   image= "7.jpg"
-  caption= "at Venice, Italy"
+  caption= "Jan. 2020, at Venice, Italy"
 
 [[gallery_item]]
   album= "me"
   image= "9.jpg"
-  caption= "at Cappadocia, Turkey"
+  caption= "Jun. 2017, at Cappadocia, Turkey"
 
 [[gallery_item]]
   album= "me"
   image= "12.jpg"
-  caption= "at St Petersburg, Russia"
+  caption= "Dec. 2019, at St Petersburg, Russia"
+
+
+[[gallery_item]]
+  album= "me"
+  image= "1.jpg"
+  caption= "Dec. 2018, at Tokyo, Japan"
+
+[[gallery_item]]
+  album= "me"
+  image= "3.jpg"
+  caption= "Dec. 2018, at Hokkaido, Japan"
+
+[[gallery_item]]
+  album= "me"
+  image= "11.jpg"
+  caption= "Jul. 2019, at Bangkok, Thailand"
+
+[[gallery_item]]
+  album= "me"
+  image= "6.jpg"
+  caption= "Dec. 2018, at Hokkaido, Japan"
+
+[[gallery_item]]
+  album= "me"
+  image= "5.jpg"
+  caption= "Jul. 2019, at Bangkok, Thailand"
 
 [[gallery_item]]
   album= "me"
   image= "13.jpg"
-  caption= "at Bangkok, Thailand"
+  caption= "Jul. 2019, at Bangkok, Thailand"
+
+[[gallery_item]]
+  album= "me"
+  image= "14.jpg"
+  caption= "Jun. 2019, at Hainan, China"
 
 +++
 
@@ -66,5 +72,7 @@ Academically, I first studied computational fluid dynamics. At York University, 
 My interests include travel, skiing, and basketball. I enjoy wine, especially with friends (what's the point of drinking alone??). I love musical & opera. My favorates are les miserables and Hamilton (don't ask me to sing or you will be disappointed).
 
 I believe in Diversity, Equity & Inclusion. I am committed to promote these values.
+
+Following are some pictures of mine thanks to Riki!!!
 
 {{< gallery album="me" >}}
